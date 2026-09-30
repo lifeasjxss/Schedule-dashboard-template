@@ -2,6 +2,7 @@
   
 A customizable schedule and productivity dashboard that runs in your browser. Build your own weekly schedule, track daily habits, manage classes and assignments, and stay on task with a built-in study timer.  
   
+[Live demo](https://lifeasjxss.github.io/Schedule-dashboard-template/)
   
 ## Features  
   
