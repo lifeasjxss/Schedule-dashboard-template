@@ -1,6 +1,6 @@
 # Personal Schedule Dashboard Template  
   
-A customizable schedule and productivity dashboard that runs in your browser. Build your own weekly schedule, track daily habits, manage classes and assignments, and stay on task with a built-in study timer.  
+The Personal Schedule Dashboard is a customizable web application that helps users organize their time, responsibilities, and academic work in a single location. Users create their own weekly schedule by adding time blocks for each day, and they build personalized daily checklists along with weekly and monthly goals. A daily check-in feature allows users to write their own reflection questions and review their responses over time. The application also includes a class and assignment tracker with due dates, a calendar view of upcoming deadlines, and a study timer that counts down from a duration the user selects. All information is stored locally in the user's own browser, so no personal data is transmitted to a server or shared with others. I designed the template with Kiro, Amazon's AI development environment, using HTML, CSS, and JavaScript, and I published it with GitHub Pages so that anyone can use it through a web link.  
   
 [Live demo](https://lifeasjxss.github.io/Schedule-dashboard-template/)
   
